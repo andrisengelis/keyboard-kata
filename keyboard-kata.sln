@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyboard-kata.tests", "keyboard-kata.tests\keyboard-kata.tests.csproj", "{51A50B23-D106-4B09-B17F-6FE60BFF8540}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardKata.Tests", "KeyboardKata.Tests\KeyboardKata.Tests.csproj", "{51A50B23-D106-4B09-B17F-6FE60BFF8540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyboard-kata", "keyboard-kata\keyboard-kata.csproj", "{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardKata", "KeyboardKata\KeyboardKata.csproj", "{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
