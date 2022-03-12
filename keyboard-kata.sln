@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyboard-kata.tests", "keyboard-kata.tests\keyboard-kata.tests.csproj", "{51A50B23-D106-4B09-B17F-6FE60BFF8540}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyboard-kata", "keyboard-kata\keyboard-kata.csproj", "{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{51A50B23-D106-4B09-B17F-6FE60BFF8540}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A50B23-D106-4B09-B17F-6FE60BFF8540}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A50B23-D106-4B09-B17F-6FE60BFF8540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA09F60F-DA7D-49FA-A6F3-2D3F362932AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
